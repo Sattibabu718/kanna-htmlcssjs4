@@ -1,0 +1,9 @@
+Document Object Model(DOM):
+Browser also copies HTML and CSS and stores in one object called document
+To undertsand DOM, we need to Understand 4 important things
+ a. events: Events are the triggering points and based on certain user actions, these events triggers different functionalities.
+  Events can be represented in two ways
+  i. event handlers: Event handlers are events that are presented in HTML
+  <button onclick="fun()">click me</button>
+  ii. event listener: Event listners are events that are presented in Javascript
+  selectedElemenet.addEventListner('click',callback)

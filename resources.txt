@@ -1,0 +1,15 @@
+// where and how to practise?
+https://github.com/markodenic/web-development-resources
+https://roadmap.sh/
+take some project in github and modify it
+
+// how to make resume and apply jobs?
+resume - make a nice resume(career objective,education/experience,skills,projects,internship,certificates,Hobbies)
+  -- naukri premium
+  -- linkedin premium
+// what to choose next?
+-- react 
+-- apply for jobs
+
+For Doubts Mail Me:
+bigdp585@gmail.com.
